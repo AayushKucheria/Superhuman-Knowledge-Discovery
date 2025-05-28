@@ -1,0 +1,6 @@
+cvxpy==1.6.5
+numpy==2.2.6
+onnx==1.18.0
+onnx2torch==1.5.15
+torch==2.7.0
+torchinfo==1.8.0
